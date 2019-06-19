@@ -11,3 +11,7 @@ print("The value of c is  ", c)
 
 def mul(a, b):
     return (a * b)
+
+d = mul(2,5)
+print("The value of d is  ", d)
+
